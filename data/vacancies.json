@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Разработчик Telegram-ботов / Python Developer (Telegram Bots)",
+        "salary": 0,
+        "description": "Опыт разработки Telegram-ботов на <highlighttext>Python</highlighttext> (aiogram, telebot или аналогичные библиотеки). Умение организовать хранение данных (PostgreSQL, SQLite, Google Sheets и...",
+        "area": {
+            "name": "Ташкент"
+        },
+        "url": "https://hh.ru/vacancy/123539651",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Backend Python Developer",
+        "salary": 0,
+        "description": "Опыт от 1 года с <highlighttext>Python</highlighttext> в коммерческой разработке. Отличное знание Django или FastAPI (или обоих). Уверенная работа с PostgreSQL...",
+        "area": {
+            "name": "Ташкент"
+        },
+        "url": "https://hh.ru/vacancy/123528304",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Junior strong Python Developer",
+        "salary": 300000,
+        "description": "<highlighttext>Python</highlighttext> — от 1 года (учебные проекты считаются). Основы веба: REST API, HTTP, базы данных. Базовые знания ML и работа с...",
+        "area": {
+            "name": "Шымкент"
+        },
+        "url": "https://hh.ru/vacancy/123512013",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Middle Backend разработчик",
+        "salary": 0,
+        "description": "опыт разработки на <highlighttext>Python</highlighttext> от 2–3 лет, уверенное знание языка и его экосистемы. - уверенное владение Django, Django Rest Framework...",
+        "area": {
+            "name": "Ташкент"
+        },
+        "url": "https://hh.ru/vacancy/123350541",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "QA Engineer",
+        "salary": 1500,
+        "description": "Manual and automated API and WebSocket testing. Integration testing using <highlighttext>Python</highlighttext>. Experience working with NoSQL databases (e.g., MongoDB, Elasticsearch). ",
+        "area": {
+            "name": "Сербия"
+        },
+        "url": "https://hh.ru/vacancy/123337576",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Цифровая душа компании",
+        "salary": 0,
+        "description": "В ИТ-Холдинге Т1 кофе варят на <highlighttext>Python</highlighttext>, а отпуск согласовывают через Telegram-бота. Мы настолько верим в будущее...",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123151117",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Backend-разработчик",
+        "salary": 2000,
+        "description": "Понимание A/B‑тестирования и построения воронок через трекеры. Уверенное владение <highlighttext>Python</highlighttext>, опыт работы с Django/Flask от 3 лет. ",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123268248",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Специалист сводно-аналитической инспекции",
+        "salary": 154000,
+        "description": "...и контроля организаций от 4-х лет. Опытный пользователь Excel. Знание SQL, <highlighttext>Python</highlighttext> для формирования и работы с базой данных.",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123334908",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "QA тестировщик",
+        "salary": 90000,
+        "description": "Опыт тестирования REST/GraphQL API, уверенное владение DevTools. Навыки написания автотестов (<highlighttext>Python</highlighttext> или JavaScript/TypeScript) и SQL-запросов для валидации...",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123246166",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Младший IT-специалист / Python-разработчик (Junior)",
+        "salary": 50000,
+        "description": "Базовые знания <highlighttext>Python</highlighttext>. Понимание сетевых архитектур (клиент-сервер, REST и др.). Уверенный пользователь ПК, умение разбираться в программных и технических...",
+        "area": {
+            "name": "Санкт-Петербург"
+        },
+        "url": "https://hh.ru/vacancy/123450223",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Junior/Middle Backend Разработчик",
+        "salary": 70000,
+        "description": "Опыт работы с одним из серверных стеков: Node.js, <highlighttext>Python</highlighttext> (FastAPI/Django), Go, Java. Работа с базами данных: PostgreSQL, MySQL, MongoDB. ",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123501234",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Аналитик данных",
+        "salary": 100000,
+        "description": "Умение презентовать сложную информацию в доступной форме. Опыт работы с <highlighttext>Python</highlighttext> для анализа данных и написания SQL-запросов. ",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123532103",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "QA инженер (middle+)",
+        "salary": 140000,
+        "description": "Опыт от 2-х лет в QA. Опыт разработки автоматизированных тестов с использованием <highlighttext>Python</highlighttext>. Владение SQL на продвинутом уровне. ",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123544770",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Product Analyst Junior",
+        "salary": 120000,
+        "description": "Опыт анализа реальных данных на <highlighttext>Python</highlighttext>. Опыт практического проведение и запуска A/B тестов. Опыт работы с одной с BI...",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123536199",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Тестировщик веб-приложений",
+        "salary": 0,
+        "description": "Опыт E2E-тестирования от 2+ лет. Знание <highlighttext>Python</highlighttext> + Pytest, TypeScript + Playwright. Опыт тестирования API (REST...",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/120800634",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Python-разработчик",
+        "salary": 0,
+        "description": "Отличное знание <highlighttext>Python</highlighttext> и понимание принципов SOLID. Уверенные навыки работы с SQL. Опыт использования Git. Готовность разбираться с чужим кодом...",
+        "area": {
+            "name": "Алматы"
+        },
+        "url": "https://hh.ru/vacancy/123412173",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "QA-инженер",
+        "salary": 200000,
+        "description": "CI/CD, умение, готовность настраивать тестовые окружения. Работой с веб-технологиями (HTTP, HTML/CSS, DOM), базовый JS; чтение логов, работа...",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123354115",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Chief Technical Officer (CTO)",
+        "salary": 0,
+        "description": "Опыт в управлении кросс-функциональными ИТ-командами. Глубокое понимание инфраструктурного ПО (виртуализация, контейнеризация, сети, хранилища) и cloud-native концепций.",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123395497",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "QA Engineer ( Backend)",
+        "salary": 110000,
+        "description": "Опыт в тестировании минимум 1 год. Умение осуществлять тестирование Backend. Опыт написания простых скриптов (на любом языке программирования). ",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123529872",
+        "work_format": "Полная занятость"
+    },
+    {
+        "name": "Тестировщик ПО",
+        "salary": 140000,
+        "description": "Уверенное знание Linux, опыт работы в командной строке. Опыт программирования и знание <highlighttext>Python</highlighttext>. Опыт работы с фреймворками для автоматизации тестирования...",
+        "area": {
+            "name": "Москва"
+        },
+        "url": "https://hh.ru/vacancy/123159668",
+        "work_format": "Полная занятость"
+    }
+]
