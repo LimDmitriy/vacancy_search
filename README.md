@@ -34,7 +34,7 @@
 ## 🚀 Установка и запуск
 1. Клонируйте репозиторий:
 ```
-git clone https://github.com/LimDmitriy/vacancy_search.git
+git clone https://github.com/LimDmitriy/hh-vacancy-parser
 ```
 2. Установите зависимости:
 ```
