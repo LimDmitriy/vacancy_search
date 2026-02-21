@@ -1,7 +1,5 @@
 from unittest.mock import patch
 
-import pytest
-
 from src.file_manager import JSONSaver
 
 
@@ -14,7 +12,7 @@ def test_add_and_get_vacancy():
             "description": "desc",
             "area": {"name": "Москва"},
             "url": "http://url",
-            "work_format": "удалённо"
+            "work_format": "удалённо",
         }
         with patch("os.path.exists", return_value=True):
             saver.add_vacancy(vacancy_data)

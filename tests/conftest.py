@@ -11,6 +11,7 @@ def sample_vacancies():
         Vacancy("Dev3", "Junior", 90000, {"name": "Казань"}, "http://example.com/3", "Гибкий график"),
     ]
 
+
 @pytest.fixture
 def vacancy_data_dict():
     return {
@@ -21,6 +22,7 @@ def vacancy_data_dict():
         "url": "https://hh.ru/vacancy/123456",
         "work_format": "Удаленная работа",
     }
+
 
 @pytest.fixture
 def vacancy_dict_list():
@@ -40,5 +42,5 @@ def vacancy_dict_list():
             "area": {"name": "Казань"},
             "alternate_url": "https://hh.ru/vacancy/456",
             "employment": {"name": "Частичная занятость"},
-        }
+        },
     ]
